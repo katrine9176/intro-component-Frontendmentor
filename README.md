@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Sokution URL](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Sokution URL](https://github.com/katrine9176/intro-component-Frontendmentor/settings/pages)
+- Live Site URL: [Live site](https://katrine9176.github.io/intro-component-Frontendmentor/m)
 
 ## My process
 
